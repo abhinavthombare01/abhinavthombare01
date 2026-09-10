@@ -83,7 +83,6 @@
 - Worked with **HTML5, CSS3, Bootstrap, JavaScript, Git/GitHub and REST APIs** for web development tasks and projects.
 - Worked with **PHP, Laravel and MySQL**, developing MVC-based applications with authentication and CRUD functionality.
 - Collaborated with team members using **GitHub** for version control, code sharing and project development, gaining practical experience in **teamwork and collaborative development**.
-- Developed and contributed to practical projects using **Laravel and React.js**.
 - Participated in debugging, testing and improving application functionality.
 
 ---
