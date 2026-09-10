@@ -1,12 +1,18 @@
 # 👋 Hi, I'm Abhinav Thombare
 
-### Software Developer · AI Enthusiast
+### Aspire Software Developer · AI Enthusiast
 
 📍 Pune, Maharashtra, India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinavthombhare01&color=brightgreen&style=flat-square&label=Profile+Views)
 
-> I believe the best way to learn technology is to build with it — learn, experiment, break things, fix them, and keep improving.
+I’m Abhinav Thombare, a Computer Science postgraduate with a strong interest in software development, particularly backend engineering.
+
+Through my academic work, OJT, and hands-on projects, I’ve had the opportunity to work with different aspects of software development. These experiences helped me understand that good development is not just about writing code, but about understanding the problem, choosing the right approach, and building solutions that are reliable and maintainable.
+
+Currently, I’m focusing on strengthening my expertise in Java, SQL, DSA, and Spring Boot, while continuing to build projects that give me practical exposure.
+
+I consider myself a continuous learner who likes to take ownership of what I work on and improve through practical experience. At this stage of my career, I’m looking for an opportunity where I can contribute as a developer, learn from experienced professionals, and gradually take on greater technical responsibility.
 
 ---
 
@@ -108,25 +114,13 @@ A web-based interface designed for monitoring and controlling a water motor pump
 **Tech:** React.js · JavaScript · HTML · CSS
 
 ---
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavthombhare01&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=abhinavthombhare01&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavthombhare01&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-</p>
-
----
+<div align="center">
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhinavthombhare01)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-thombhare-a401bb279)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavthombhare22@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhinavthombhare01)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-thombhare-a401bb279)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavthombhare22@gmail.com) 
+  
 ---
 
-### 💡 Building with purpose. Learning every day. Improving with every commit.
+### 💡 Learn Build & Improve 
+</div>
